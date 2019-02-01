@@ -4,4 +4,4 @@ librdkafka是kafka消息系统的C/C++跨平台开源库。该项目用C++对lib
 消费者：https://github.com/huyaohua-love/librdkafka_consumer.git
 
 运行修改:（注意librdkafka需要的库，参考官网。）
-修改：CMakeLists.txt第8行 set(LIBRDKAFKA "/home/obsidian/Downloads/faceDetect/librdkafka_producer/librdkafka") 的路径。
+修改CMakeLists.txt第8行 set(LIBRDKAFKA "/home/obsidian/Downloads/faceDetect/librdkafka_producer/librdkafka") 的路径。
